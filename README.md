@@ -5,7 +5,7 @@
 
 - 📫: Reach me out! **mili.nadine07@gmail.com**
 
-- 🌱 I’m currently learning **Docker | Kubernetes | Jenkins**
+- 🌱 I’m currently learning **Docker | Kubernetes | Jenkins | Prometheus & Grafana**
 
 - ⚡ Fun fact : **I play video games**
 
