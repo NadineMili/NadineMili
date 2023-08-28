@@ -37,7 +37,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![preme](https://github.com/NadineMili/NadineMili/assets/80693299/6ebfb88a-1512-4c1e-ba68-03542c2f9ff4)
+![preme](https://github.com/NadineMili/NadineMili/raw/main/assets/80693299/6ebfb88a-1512-4c1e-ba68-03542c2f9ff4.svg)
 
 
 
