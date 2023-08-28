@@ -11,6 +11,8 @@
 - 📫 How to reach me: nadine.mili@esprit.tn
 - ⚡  Fun fact: I play games.
 
+<img src="https://camo.githubusercontent.com/34cc5c8b4ea4d92190f579a8f03e0b8c663b0788653bf6a378026464f5573286/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6a65747061636b746f6361742e706e67" alt="celebrate" width="300" align="right" data-canonical-src="https://octodex.github.com/images/jetpacktocat.png" style="max-width: 100%;">
+
 
  <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
