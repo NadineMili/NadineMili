@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadine Mili</h1>
-<h3 align="center">IT Architecture Engineering Student | Devops</h3>
+<h3 align="center">IT Architecture Engineering Student | DevOps</h3>
 
 📫: Reach me out! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;">
 
