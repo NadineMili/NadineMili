@@ -7,7 +7,7 @@
 
 - 🔭 I am currently studying at @Esprit
 - 💻 Most used line of code git commit -m "First Commit"
-- 📫 How to reach me: nadine.mili@esprit.tn
+- 📫 How to reach me: mili.nadine07@gmail.com
 - ⚡  Fun fact: I play video games.
 
 <p align="center">
